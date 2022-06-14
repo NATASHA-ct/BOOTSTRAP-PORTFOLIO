@@ -1,15 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+PORTFOLIO BUILD-UP (Bootstrap)
 
 > Description the project.
+Using bootstrap to build a basic portfolio
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html , Css
+- Bootstrap
 
 ## Live Demo (if available)
 
@@ -25,32 +26,32 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+-Github flow knowledge.
+-Basic CSS and HTML.
+-Basic Bootstrap
+-Installation of files.
 
 ### Setup
+-To clone the repository run `[https://github.com/NATASHA-ct/MY-PORTFOLIO.git]` in your terminal
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+-Set up Github Actions
+-Set up linter > Lighthouse , Webhint ,Stylelint
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Author 1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
+- Twitter: [@NatashaChirombe]
+- LinkedIn: [Natasha Chirombe](linkedin.com/in/natasha-chirombe-1531aa17b)
 
-👤 **Author2**
+👤 **Author 2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: []((https://github.com/)
+- Twitter: []
+- LinkedIn: [](https://www.linkedin/)
 
 ## 🤝 Contributing
 
@@ -61,12 +62,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
