@@ -1,7 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-PORTFOLIO BUILD-UP (Bootstrap)
+# PORTFOLIO BUILD-UP (Bootstrap)
 
 > Description the project.
 Using bootstrap to build a basic portfolio
