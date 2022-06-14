@@ -13,7 +13,7 @@ Using bootstrap to build a basic portfolio
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]( https://natasha-ct.github.io/BOOTSTRAP-PORTFOLIO/)
 
 
 ## Getting Started
