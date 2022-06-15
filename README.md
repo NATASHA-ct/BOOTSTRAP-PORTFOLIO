@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 -Installation of files.
 
 ### Setup
--To clone the repository run `[https://github.com/NATASHA-ct/MY-PORTFOLIO.git]` in your terminal
+-To clone the repository run `[(https://github.com/NATASHA-ct/BOOTSTRAP-PORTFOLIO.git)]` in your terminal
 
 ### Install
 -Set up Github Actions
@@ -48,9 +48,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author 2**
 
-- GitHub: []((https://github.com/)
-- Twitter: []
-- LinkedIn: [](https://www.linkedin/)
+- GitHub: [@basitali111]((https://github.com/basitali111)
+- Twitter: [@BasitAl35031734]
+- LinkedIn: [basit-ali-3961141b3](https://www.linkedin/in/basit-ali-3961141b3)
 
 ## 🤝 Contributing
 
